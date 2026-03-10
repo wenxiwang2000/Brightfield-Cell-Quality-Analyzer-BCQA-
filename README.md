@@ -116,8 +116,9 @@ Contours are drawn in green.
 
 ## Software interface details
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/38a858dc-f542-49cb-8b2e-2f8349dd206a" height="350">
-  <img src="https://github.com/user-attachments/assets/e0848142-51e8-43ba-a220-ca85844f524e" height="350">
-</p>
+## Example interface layout
+
+| Main analysis interface | Parameter settings |
+|:-----------------------:|:------------------:|
+| ![](https://github.com/user-attachments/assets/38a858dc-f542-49cb-8b2e-2f8349dd206a) | ![](https://github.com/user-attachments/assets/e0848142-51e8-43ba-a220-ca85844f524e) |
 
