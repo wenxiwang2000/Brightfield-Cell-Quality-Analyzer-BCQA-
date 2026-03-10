@@ -3,8 +3,8 @@ Hi, nice to meet you! This section shows how to use the AI-assisted segmentation
 Workflow: Start with an example input/output, then iteratively tune the segmentation parameters (based on Otsu thresholding) and manually mark/correct results. With each correction, the auto output becomes more accurate and efficient.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/83c04034-f2d2-4681-8e7a-bbd75637a9d6" width="48%">
-  <img src="https://github.com/user-attachments/assets/d4c05345-bb26-444d-baaa-3bb0e6859342" width="48%">
+  <img src="https://github.com/user-attachments/assets/83c04034-f2d2-4681-8e7a-bbd75637a9d6" height="320">
+  <img src="https://github.com/user-attachments/assets/d4c05345-bb26-444d-baaa-3bb0e6859342" height="320">
 </p>
 
 Software interface (Streamlit):
