@@ -10,7 +10,11 @@ Workflow: Start with an example input/output, then iteratively tune the segmenta
 
 Software interface (Streamlit):
 
-<img width="1916" height="948" alt="image" src="https://github.com/user-attachments/assets/c704d699-3f01-4e02-bd7a-ea023d23e3b7" /> <img width="1537" height="848" alt="image" src="https://github.com/user-attachments/assets/038f8d44-7608-4f05-903e-e83bbe51c26d" />
+## Software interface (Streamlit)
+
+| Segmentation & AI settings | Parameter tuning panel |
+|:--------------------------:|:----------------------:|
+| ![](https://github.com/user-attachments/assets/c704d699-3f01-4e02-bd7a-ea023d23e3b7) | ![](https://github.com/user-attachments/assets/038f8d44-7608-4f05-903e-e83bbe51c26d) |
 
 
 ## 🔍 Core Algorithm (Mathematical Overview)
